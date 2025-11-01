@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#change password in Proxmox -> Cloud-Init -> Password -> Edit -> Regenerate Image
 
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
